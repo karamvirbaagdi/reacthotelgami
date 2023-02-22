@@ -1,0 +1,14 @@
+.navbar{background-color: #3a6bac !important;}
+.navbar a{color: #fff !important;}
+.navbar .dropdown-menu{background-color: #3a6bac !important;}
+.navbar .dropdown-menu a:hover{color: #313A46 !important;}
+#Footer{background-color: #3a6bac;padding: 10px;text-align: center;color:#fff; margin-top: 20px;}
+#sideBarBootstrap{background-color: #313A46;}
+.userRegisterForm{text-align: left;}
+.form_save_data{text-align: left;}
+.userRegisterForm label{margin: 12px 0px;}
+html{margin: 0px;overflow-y: scroll;}
+.form_save_data label{margin: 12px 0px;}
+.dashboardwidgit{float:left; margin:4px 4px;}
+.dashboarContainer{}
+body{ background-image: linear-gradient(to bottom, white , rgb(80, 77, 226));}
